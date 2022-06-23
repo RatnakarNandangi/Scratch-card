@@ -1,0 +1,1 @@
+alert("Take Screenshot after scratching , स्क्रॅच केल्यानंतर स्क्रीनशॉट घ्या");
